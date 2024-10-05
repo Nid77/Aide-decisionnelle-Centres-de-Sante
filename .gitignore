@@ -1,0 +1,40 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Maven output
+target/
+
+# Ignore build output
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans logs
+hs_err_pid*
+
+# OS-specific files (optional, depending on your OS)
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Eclipse project files (if shared workspace is used with Eclipse too)
+.project
+.classpath
+.settings/
